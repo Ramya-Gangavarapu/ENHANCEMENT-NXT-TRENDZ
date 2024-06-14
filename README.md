@@ -39,7 +39,7 @@ More control over data management.
 
 To run the project locally:
 
-Clone the repository: git clone https://github.com/yourusername/nxt-trendz.git
+Clone the repository: git clone https://github.com/Ramya-Gangavarapu/ENHANCEMENT-NXT-TRENDZ
 Navigate to the project directory: cd nxt-trendz
 Install dependencies: npm install
 Start the development server: npm start
